@@ -6,7 +6,7 @@
   
 <p>
   
-<img src="https://cdn.dribbble.com/users/994680/screenshots/2386360/media/dd04dd72fdfca51097ae7521b1560277.gif" width="300px" height="210px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.dribbble.com/users/994680/screenshots/2386360/media/dd04dd72fdfca51097ae7521b1560277.gif" width="300px" height="210px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hummingbird99&show_icons=true&theme=transparent&count_private=true&text_color=d6ace6&icon_color=4c71f2&ring_color=5433FF) <br><br><br>
 
 </p>
