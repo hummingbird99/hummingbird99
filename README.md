@@ -14,3 +14,4 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=footer&fontSize=60&fontAlign=65&fontColor=f7f5f5&textBg=282829&fontAlignY=40)
 
 </div>
+&nbsp
